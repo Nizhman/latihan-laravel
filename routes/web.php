@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+// ijang ganteng
+
 Route::get('/', function () {
     return redirect('/fakultas');
 });
